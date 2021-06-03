@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation against the Viscount of Dundee, and other rebels now in arms. At Edinburgh, the eighteenth day of July, one thousand six hundred eighty nine years.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05483</idno><idno type="EEBO-CITATION">51784657</idno>
+  <idno type="VID">175061</idno>
+  <idno type="EEBO-PROQUEST">2240866102</idno>
+  
+            <idno type="STC">Wing S1618</idno>
+            <idno type="STC">ESTC R183353</idno>
+            <idno type="OCLC">51784657</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B05483)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175061)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2711:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation against the Viscount of Dundee, and other rebels now in arms. At Edinburgh, the eighteenth day of July, one thousand six hundred eighty nine years.</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>William III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>Anno Dom. 1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette; initial letter.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Graham, John, --  Viscount Dundee, 1648-1689 --  Early works to 1800.</term>
+               <term type="topical_term">Covenanters --  Persecutions --  Sources.</term>
+               <term type="geographic_name">Scotland --  History --  Revolution of 1688 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  1689-1745 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  Scotland --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:175061:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon surmounted by a crown against a background of stylized foliage and other motifs</figDesc>
+               </figure>
+            </head>
+            <head>A PROCLAMATION, Against the Viscount of Dundee, and other Rebels now in Arms.</head>
+            <opener>
+               <dateline>At <hi>Edinburgh,</hi>
+                  <date>the Eighteenth day of <hi>July,</hi> One thousand six hundred eighty nine years.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Lord High Commissioner, and Lords of His <hi>Majesties</hi> Privy Council, Considering, that by the express Laws and Acts of Parliament of this Kingdom, it is Declared to be high Treason for the Subjects of this Kingdom, or any number of them, upon any Pretext or Ground whatsoever, to rise or co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tinue in Arms, without His <hi>Majecties</hi> special Authority and Approbation; and that nevertheless some hundreds of <hi>Irish</hi> Papists, with some Gentle-men and <hi>Scots</hi> Officers, Ship<g ref="char:EOLhyphen"/>ed at <hi>Craig-fergus,</hi> Aboard three Men of War, in order to an Invasion and Descent upon the <hi>Isles</hi> of this Kingdom, or <hi>High lands</hi> about <hi>Lochaber,</hi> to joyn with the Viscount of <hi>Dundee,</hi> who, and the Persons underwritten, have Associat themselves together against His <hi>Majesties</hi> Authority and Laws, Protestant Religion, and Government of this Kingdom; <hi>viz. Alexander</hi> Earl of <hi>Dumfermling, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </hi> Lord <hi>Dunkeld, David Haliburton</hi> of <hi>Pitcurr, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Innes</hi> of <hi>Cockstoun, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Grant</hi> of <hi>Ballindalloch, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Gordon</hi> of <hi>Achanachie, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Fullartoun</hi> of that Ilk, Captain <hi>Alexander Bruce, Alexander Leslie</hi> of <hi>Bogholm,</hi> Lieutenant <hi>John Cleland</hi> of <hi>Faskine,</hi> Sir <hi>Evan Cameron</hi> of <hi>Lochʒeall, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Cameron</hi> his eldest Son, <hi>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> M<seg rend="sup">c</seg>donnald</hi> of <hi>Glengarie, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> M<seg rend="sup">c</seg>donnald</hi> of <hi>Keapoch, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Stuart</hi> of <hi>Appin, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Mcdonnald</hi> of <hi>Glencoe,</hi> Major <hi>William Grahame, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Grahame,</hi> Brother to the Viscount of <hi>Dundee, James Malcolm,</hi> Son to the Laird of <hi>Balbedie,</hi> the Laird of <hi>M<seg rend="sup">c</seg>clean, Alexander M<seg rend="sup">c</seg>clean,</hi> designed Commissar <hi>M<seg rend="sup">c</seg>clean,</hi> and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>
+               <hi>M<seg rend="sup">c</seg>clean</hi> of <hi>Lochbuy,</hi> the Captain of <hi>Clanronnald, William Farquhardson</hi> of <hi>Inverray,</hi> and <hi>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Farquhardson</hi> his Brother, <hi>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Kinnaird</hi> of <hi>Coubin,</hi> with several others: Therefore that simple and unwarry People be not insnared by the saids Rebels, and their Emissaries, and involved in their Rebellion; and to take off <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll pretence of Ignorance or Excuse, The Lord High Commissioner, and Lords of His <hi>Maje<g ref="char:EOLhyphen"/>sties</hi> Privy Council, in His <hi>Majesties</hi> Name and Authority, Declare the said Association, and Assembling together of the Viscount of <hi>Dun<g ref="char:EOLhyphen"/>dee,</hi> and Persons foresaids, to be open and manifest Rebellion, and high Treason, and that the Authors and Actors in the same, and all that shall joyn with them, are, and ought to be Pursued as declared Traitors to His <hi>Majesty,</hi> and his Authority and Government; And the said Lord High Commissioner, and Lords of Privy Council, Do hereby Prohibite and Discharge in Name and Authority soresaid, any person or persons, to Harbour, Reset, Intercommune with, Abbet, Assist, or Supply any of the saids Rebels, or to keep Correspondence with them, without Warrant from General-Major <hi>Mackay,</hi> or other Officer Commanding His <hi>Majesties</hi> Forces in Chief; but on the contrary, that they do their utmost endeavour to Resist, Prosecute, Detect, and Apprehend any of the Persons above-named, as desperat and bloo<g ref="char:EOLhyphen"/>dy Traitors, or any other that have joyned, or shall joyn in Rebellion with them; And for their further encouragement, the Lord High Commissioner, and Lords of Privy Council, do in His <hi>Majesties</hi> Name and Authority foresaid, ensure and engage the Sum of Eighteen Thousand Merks, <hi>Scots</hi> Money, to be effectually payed down, and delivered to any person, or persons, who shall apprehend the said <hi>John</hi> Viscount of <hi>Dundee,</hi> and shall deliver him dead or alive, to any of His <hi>Majesties</hi> Commanding-Officers, or Magistrats in the place, to<g ref="char:EOLhyphen"/>gether with an absolute Indemnity for all Crimes committed before the performance of that Service, and even though the Persons that shall apprehend him, have been in open Rebellion, and Correspondence with him. And Ordains these Presents to be Printed, and Published at the Mercat-Cross of <hi>Edinburgh,</hi> and other Head Burghs of the Kingdom. Extracted by me,</p>
+            <closer>
+               <signed>
+                  <hi>GILB. ELIOT,</hi> Cls. Sti. Concilii.</signed>
+               <lb/> GOD Save King <hi>WILLIAM</hi> and Queen <hi>MARY.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderson,</hi> By Order of His Majesties Privy Council, Anno <hi>Dom.</hi> 1689.</p>
+            <pb facs="tcp:175061:2"/>
+            <pb facs="tcp:175061:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
